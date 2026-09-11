@@ -1,0 +1,34 @@
+{
+  "absender": {
+    "name": "Nick Geiger",
+    "strasse": "Sulgenrain",
+    "nr": "28",
+    "plz": "3007",
+    "ort": "Bern",
+    "land": "CH",
+    "email": "nick.geiger@talentory.com",
+    "telefon": "+41762231107",
+    "iban": "CH67 8080 8002 3211 3702 1",
+    "bank": "Raiffeisen",
+    "mwst_nr": ""
+  },
+  "kunden": {
+    "talentory": {
+      "name": "Talentory AG",
+      "zhd": "",
+      "strasse": "Hagenholzstrasse",
+      "nr": "81",
+      "plz": "8050",
+      "ort": "Zürich",
+      "land": "CH",
+      "email": "accounting@talentory.com",
+      "satz_chf": 40,
+      "zahlungsziel_tage": 30,
+      "mwst": "off",
+      "mwst_satz": 8.1,
+      "referenzart": "auto",
+      "betreff": "Dienstleistungen — Verrechnung der aufgewendeten Stunden",
+      "bemerkung": "Vielen Dank für die Zusammenarbeit."
+    }
+  }
+}

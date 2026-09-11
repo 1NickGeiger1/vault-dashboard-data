@@ -1,0 +1,112 @@
+{
+  "id": "e-20260908-0631-2edd",
+  "nr": null,
+  "status": "verworfen",
+  "kunde": "talentory",
+  "erstellt": "2026-09-08T04:31:06.929Z",
+  "freigegeben": null,
+  "versendet": null,
+  "bezahlt": null,
+  "erinnert": "2026-09-08T04:31:06.929Z",
+  "datum": "2026-09-08",
+  "zahlungsziel_tage": 30,
+  "zeitraum": [
+    "2026-08-14",
+    "2026-08-27"
+  ],
+  "waehrung": "CHF",
+  "mwst": "off",
+  "mwst_satz": 8.1,
+  "referenzart": "auto",
+  "betreff": "Dienstleistungen — Verrechnung der aufgewendeten Stunden",
+  "bemerkung": "Vielen Dank für die Zusammenarbeit.",
+  "absender": {
+    "name": "Nick Geiger",
+    "strasse": "Sulgenrain",
+    "nr": "28",
+    "plz": "3007",
+    "ort": "Bern",
+    "land": "CH",
+    "email": "nick.geiger@talentory.com",
+    "telefon": "+41762231107",
+    "iban": "CH67 8080 8002 3211 3702 1",
+    "bank": "Raiffeisen",
+    "mwst_nr": ""
+  },
+  "empfaenger": {
+    "name": "Talentory AG",
+    "zhd": "",
+    "strasse": "Hagenholzstrasse",
+    "nr": "81",
+    "plz": "8050",
+    "ort": "Zürich",
+    "land": "CH",
+    "email": "accounting@talentory.com"
+  },
+  "positionen": [
+    {
+      "eintrag": "2026-09-07-1042-3094",
+      "datum": "2026-08-14",
+      "text": "Domain Registrar Analyse, CloudFlare, AWS, Planetary usw.",
+      "dauer_h": 1.5,
+      "satz_chf": 40,
+      "betrag": 60
+    },
+    {
+      "eintrag": "2026-09-07-1043-24df",
+      "datum": "2026-08-18",
+      "text": "Div kleine korrespondenz, Projektauflistung und planung.",
+      "dauer_h": 0.5,
+      "satz_chf": 40,
+      "betrag": 20
+    },
+    {
+      "eintrag": "2026-09-07-1042-1bb0",
+      "datum": "2026-08-18",
+      "text": "Hauptnummer Problem Troubleshooting",
+      "dauer_h": 3,
+      "satz_chf": 40,
+      "betrag": 120
+    },
+    {
+      "eintrag": "2026-09-07-1042-e300",
+      "datum": "2026-08-18",
+      "text": "Embiggen Weekly",
+      "dauer_h": 1,
+      "satz_chf": 40,
+      "betrag": 40
+    },
+    {
+      "eintrag": "2026-09-07-1042-f511",
+      "datum": "2026-08-23",
+      "text": "CloudFlare Password rotation + Start der M365 User Analyse",
+      "dauer_h": 1,
+      "satz_chf": 40,
+      "betrag": 40
+    },
+    {
+      "eintrag": "2026-09-07-1043-282e",
+      "datum": "2026-08-23",
+      "text": "M365 Benutzer Analyse",
+      "dauer_h": 1,
+      "satz_chf": 40,
+      "betrag": 40
+    },
+    {
+      "eintrag": "2026-09-07-1044-2704",
+      "datum": "2026-08-27",
+      "text": "AWS Kreditkartenaktuallisierung + RFA Henkel Meeting",
+      "dauer_h": 1.75,
+      "satz_chf": 40,
+      "betrag": 70
+    }
+  ],
+  "pdf": "e-20260908-0631-2edd.pdf",
+  "faellig": "2026-10-08",
+  "stunden_total": 9.75,
+  "netto": 390,
+  "mwst_betrag": 0,
+  "total": 390,
+  "pdfErzeugt": "2026-09-08T04:31:07.452Z",
+  "verworfen": "2026-09-08T08:27:28.873Z"
+}

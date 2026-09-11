@@ -1,0 +1,25 @@
+{"id":"2026-09-07-1042-f511","datum":"2026-09-07","kunde":"talentory","von":"","bis":"","dauer_h":1,"taetigkeit":"CloudFlare Password rotation + Start der M365 User Analyse","satz_chf":null,"verrechenbar":true,"erfasst":"2026-09-07T08:42:14.309Z","geaendert":null}
+{"id":"2026-09-07-1042-e300","datum":"2026-09-07","kunde":"talentory","von":"","bis":"","dauer_h":1,"taetigkeit":"Embiggen Weekly","satz_chf":null,"verrechenbar":true,"erfasst":"2026-09-07T08:42:31.241Z","geaendert":null}
+{"id":"2026-09-07-1042-1bb0","datum":"2026-09-07","kunde":"talentory","von":"","bis":"","dauer_h":3,"taetigkeit":"Hauptnummer Problem Troubleshooting","satz_chf":null,"verrechenbar":true,"erfasst":"2026-09-07T08:42:43.538Z","geaendert":null}
+{"id":"2026-09-07-1043-24df","datum":"2026-09-07","kunde":"talentory","von":"12:00","bis":"12:30","dauer_h":0.5,"taetigkeit":"Div kleine korrespondenz, Projektauflistung und planung.","satz_chf":null,"verrechenbar":true,"erfasst":"2026-09-07T08:43:31.730Z","geaendert":null}
+{"id":"2026-09-07-1043-282e","datum":"2026-09-07","kunde":"talentory","von":"","bis":"","dauer_h":1,"taetigkeit":"M365 Benutzer Analyse","satz_chf":null,"verrechenbar":true,"erfasst":"2026-09-07T08:43:42.335Z","geaendert":null}
+{"id":"2026-09-07-1043-b7a0","datum":"2026-09-07","kunde":"talentory","von":"","bis":"","dauer_h":1,"taetigkeit":"Account Domain Blocker Troubleshooting + Solution","satz_chf":null,"verrechenbar":true,"erfasst":"2026-09-07T08:43:51.353Z","geaendert":null}
+{"id":"2026-09-07-1044-2704","datum":"2026-09-07","kunde":"talentory","von":"10:00","bis":"11:45","dauer_h":1.75,"taetigkeit":"AWS Kreditkartenaktuallisierung + RFA Henkel Meeting","satz_chf":null,"verrechenbar":true,"erfasst":"2026-09-07T08:44:23.223Z","geaendert":null}
+{"id":"2026-09-07-1044-5ba9","datum":"2026-09-07","kunde":"talentory","von":"","bis":"","dauer_h":0.5,"taetigkeit":"Oliver OneDrive Sync troubleshooting","satz_chf":null,"verrechenbar":true,"erfasst":"2026-09-07T08:44:31.987Z","geaendert":null}
+{"id":"2026-09-07-1044-310b","datum":"2026-09-07","kunde":"talentory","von":"","bis":"","dauer_h":0.5,"taetigkeit":"Erstellung der support adresse + kommunikation","satz_chf":null,"verrechenbar":true,"erfasst":"2026-09-07T08:44:42.359Z","geaendert":null}
+{"id":"2026-09-07-1044-5ba9","datum":"2026-09-02","kunde":"talentory","von":"","bis":"","dauer_h":0.5,"taetigkeit":"Oliver OneDrive Sync troubleshooting","satz_chf":null,"verrechenbar":true,"erfasst":"2026-09-07T08:44:31.987Z","geaendert":"2026-09-07T08:45:31.866Z"}
+{"id":"2026-09-07-1044-310b","datum":"2026-09-02","kunde":"talentory","von":"","bis":"","dauer_h":0.5,"taetigkeit":"Erstellung der support adresse + kommunikation","satz_chf":null,"verrechenbar":true,"erfasst":"2026-09-07T08:44:42.359Z","geaendert":"2026-09-07T08:45:43.815Z"}
+{"id":"2026-09-07-1043-b7a0","datum":"2026-09-25","kunde":"talentory","von":"","bis":"","dauer_h":1,"taetigkeit":"Account Domain Blocker Troubleshooting + Solution","satz_chf":null,"verrechenbar":true,"erfasst":"2026-09-07T08:43:51.353Z","geaendert":"2026-09-07T08:46:00.339Z"}
+{"id":"2026-09-07-1042-f511","op":"delete"}
+{"id":"2026-09-07-1043-24df","op":"delete"}
+{"id":"2026-09-07-1042-1bb0","op":"delete"}
+{"id":"2026-09-07-1044-2704","op":"delete"}
+{"id":"2026-09-07-1042-e300","op":"delete"}
+{"id":"2026-09-07-1043-282e","op":"delete"}
+{"id":"2026-09-07-1424-dfd8","datum":"2026-09-07","kunde":"talentory","von":"","bis":"","dauer_h":1,"taetigkeit":"Talentory Frontend redesign.","satz_chf":null,"verrechenbar":false,"erfasst":"2026-09-07T12:24:15.563Z","geaendert":null}
+{"id":"2026-09-08-1027-5d8f","datum":"2026-09-08","kunde":"talentory","von":"10:12","bis":"11:00","dauer_h":0.8,"taetigkeit":"Embiggen Weekly (verspätet und nur zuhörer)","satz_chf":null,"verrechenbar":false,"erfasst":"2026-09-08T08:27:07.169Z","geaendert":null}
+{"id":"2026-09-07-1043-b7a0","op":"delete"}
+{"id":"2026-09-09-1647-a2f5","datum":"2026-09-09","kunde":"talentory","von":"16:30","bis":"16:50","dauer_h":0.3,"taetigkeit":"OneDrive Synchronisations Problem mit Oliver.","satz_chf":null,"verrechenbar":true,"erfasst":"2026-09-09T14:47:11.227Z","geaendert":null}
+{"id":"2026-09-09-1647-a2f5","datum":"2026-09-09","kunde":"talentory","von":"16:30","bis":"17:00","dauer_h":0.5,"taetigkeit":"OneDrive Synchronisations Problem mit Oliver.","satz_chf":null,"verrechenbar":true,"erfasst":"2026-09-09T14:47:11.227Z","geaendert":"2026-09-09T14:47:47.277Z"}
+{"id":"2026-09-10-1431-7658","datum":"2026-09-10","kunde":"talentory","von":"14:00","bis":"14:30","dauer_h":0.5,"taetigkeit":"Weiters Troubleshooting zum OneDrive Sync Problem.","satz_chf":null,"verrechenbar":true,"erfasst":"2026-09-10T12:31:48.481Z","geaendert":null}
+{"id":"2026-09-11-1159-20f1","datum":"2026-09-11","kunde":"talentory","von":"11:00","bis":"12:00","dauer_h":1,"taetigkeit":"Lösung des OneDrive Problems bei Oliver, Archivierung der bestehenden OneDrive Struktur. ForceKill der Dropbox Prozesse und anschliessendes Neu synchronisieren.","satz_chf":null,"verrechenbar":true,"erfasst":"2026-09-11T09:59:20.828Z","geaendert":null}

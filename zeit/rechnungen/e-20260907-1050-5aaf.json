@@ -1,0 +1,136 @@
+{
+  "id": "e-20260907-1050-5aaf",
+  "nr": null,
+  "status": "verworfen",
+  "kunde": "talentory",
+  "erstellt": "2026-09-07T08:50:02.439Z",
+  "freigegeben": null,
+  "versendet": null,
+  "bezahlt": null,
+  "erinnert": null,
+  "datum": "2026-09-07",
+  "zahlungsziel_tage": 30,
+  "zeitraum": [
+    "2026-08-14",
+    "2026-09-25"
+  ],
+  "waehrung": "CHF",
+  "mwst": "off",
+  "mwst_satz": 8.1,
+  "referenzart": "auto",
+  "betreff": "Dienstleistungen — Verrechnung der aufgewendeten Stunden",
+  "bemerkung": "Vielen Dank für die Zusammenarbeit.",
+  "absender": {
+    "name": "Nick Geiger",
+    "strasse": "Sulgenrain",
+    "nr": "28",
+    "plz": "3007",
+    "ort": "Bern",
+    "land": "CH",
+    "email": "nick.geiger@talentory.com",
+    "telefon": "+41762231107",
+    "iban": "",
+    "bank": "",
+    "mwst_nr": ""
+  },
+  "empfaenger": {
+    "name": "Talentory AG",
+    "zhd": "",
+    "strasse": "Hagenholzstrasse",
+    "nr": "81",
+    "plz": "8050",
+    "ort": "Zürich",
+    "land": "CH",
+    "email": "accounting@talentory.com"
+  },
+  "positionen": [
+    {
+      "eintrag": "2026-09-07-1042-3094",
+      "datum": "2026-08-14",
+      "text": "Domain Registrar Analyse, CloudFlare, AWS, Planetary usw.",
+      "dauer_h": 1.5,
+      "satz_chf": 40,
+      "betrag": 60
+    },
+    {
+      "eintrag": "2026-09-07-1043-24df",
+      "datum": "2026-08-18",
+      "text": "Div kleine korrespondenz, Projektauflistung und planung.",
+      "dauer_h": 0.5,
+      "satz_chf": 40,
+      "betrag": 20
+    },
+    {
+      "eintrag": "2026-09-07-1042-1bb0",
+      "datum": "2026-08-18",
+      "text": "Hauptnummer Problem Troubleshooting",
+      "dauer_h": 3,
+      "satz_chf": 40,
+      "betrag": 120
+    },
+    {
+      "eintrag": "2026-09-07-1042-e300",
+      "datum": "2026-08-18",
+      "text": "Embiggen Weekly",
+      "dauer_h": 1,
+      "satz_chf": 40,
+      "betrag": 40
+    },
+    {
+      "eintrag": "2026-09-07-1042-f511",
+      "datum": "2026-08-23",
+      "text": "CloudFlare Password rotation + Start der M365 User Analyse",
+      "dauer_h": 1,
+      "satz_chf": 40,
+      "betrag": 40
+    },
+    {
+      "eintrag": "2026-09-07-1043-282e",
+      "datum": "2026-08-23",
+      "text": "M365 Benutzer Analyse",
+      "dauer_h": 1,
+      "satz_chf": 40,
+      "betrag": 40
+    },
+    {
+      "eintrag": "2026-09-07-1044-2704",
+      "datum": "2026-08-27",
+      "text": "AWS Kreditkartenaktuallisierung + RFA Henkel Meeting",
+      "dauer_h": 1.75,
+      "satz_chf": 40,
+      "betrag": 70
+    },
+    {
+      "eintrag": "2026-09-07-1044-310b",
+      "datum": "2026-09-02",
+      "text": "Erstellung der support adresse + kommunikation",
+      "dauer_h": 0.5,
+      "satz_chf": 40,
+      "betrag": 20
+    },
+    {
+      "eintrag": "2026-09-07-1044-5ba9",
+      "datum": "2026-09-02",
+      "text": "Oliver OneDrive Sync troubleshooting",
+      "dauer_h": 0.5,
+      "satz_chf": 40,
+      "betrag": 20
+    },
+    {
+      "eintrag": "2026-09-07-1043-b7a0",
+      "datum": "2026-09-25",
+      "text": "Account Domain Blocker Troubleshooting + Solution",
+      "dauer_h": 1,
+      "satz_chf": 40,
+      "betrag": 40
+    }
+  ],
+  "pdf": "e-20260907-1050-5aaf.pdf",
+  "faellig": "2026-10-07",
+  "stunden_total": 11.75,
+  "netto": 470,
+  "mwst_betrag": 0,
+  "total": 470,
+  "pdfErzeugt": "2026-09-07T08:50:02.915Z",
+  "verworfen": "2026-09-07T08:51:08.935Z"
+}

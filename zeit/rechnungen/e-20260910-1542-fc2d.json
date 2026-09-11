@@ -1,0 +1,72 @@
+{
+  "id": "e-20260910-1542-fc2d",
+  "nr": null,
+  "status": "verworfen",
+  "kunde": "talentory",
+  "erstellt": "2026-09-10T13:42:10.261Z",
+  "freigegeben": null,
+  "versendet": null,
+  "bezahlt": null,
+  "erinnert": null,
+  "datum": "2026-09-10",
+  "zahlungsziel_tage": 30,
+  "zeitraum": [
+    "2026-09-09",
+    "2026-09-10"
+  ],
+  "waehrung": "CHF",
+  "mwst": "off",
+  "mwst_satz": 8.1,
+  "referenzart": "auto",
+  "betreff": "Dienstleistungen — Verrechnung der aufgewendeten Stunden",
+  "bemerkung": "Vielen Dank für die Zusammenarbeit.",
+  "absender": {
+    "name": "Nick Geiger",
+    "strasse": "Sulgenrain",
+    "nr": "28",
+    "plz": "3007",
+    "ort": "Bern",
+    "land": "CH",
+    "email": "nick.geiger@talentory.com",
+    "telefon": "+41762231107",
+    "iban": "CH67 8080 8002 3211 3702 1",
+    "bank": "Raiffeisen",
+    "mwst_nr": ""
+  },
+  "empfaenger": {
+    "name": "Talentory AG",
+    "zhd": "",
+    "strasse": "Hagenholzstrasse",
+    "nr": "81",
+    "plz": "8050",
+    "ort": "Zürich",
+    "land": "CH",
+    "email": "accounting@talentory.com"
+  },
+  "positionen": [
+    {
+      "eintrag": "2026-09-09-1647-a2f5",
+      "datum": "2026-09-09",
+      "text": "OneDrive Synchronisations Problem mit Oliver.",
+      "dauer_h": 0.5,
+      "satz_chf": 40,
+      "betrag": 20
+    },
+    {
+      "eintrag": "2026-09-10-1431-7658",
+      "datum": "2026-09-10",
+      "text": "Weiters Troubleshooting zum OneDrive Sync Problem.",
+      "dauer_h": 0.5,
+      "satz_chf": 40,
+      "betrag": 20
+    }
+  ],
+  "pdf": "e-20260910-1542-fc2d.pdf",
+  "faellig": "2026-10-10",
+  "stunden_total": 1,
+  "netto": 40,
+  "mwst_betrag": 0,
+  "total": 40,
+  "pdfErzeugt": "2026-09-10T13:42:10.800Z",
+  "verworfen": "2026-09-10T13:42:20.907Z"
+}
