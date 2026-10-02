@@ -1,0 +1,144 @@
+{
+  "id": "e-20261001-0630-e27a",
+  "nr": null,
+  "status": "verworfen",
+  "kunde": "talentory",
+  "erstellt": "2026-10-01T04:30:57.564Z",
+  "freigegeben": null,
+  "versendet": null,
+  "bezahlt": null,
+  "erinnert": "2026-10-01T04:30:57.564Z",
+  "datum": "2026-10-01",
+  "zahlungsziel_tage": 30,
+  "zeitraum": [
+    "2026-09-09",
+    "2026-09-29"
+  ],
+  "waehrung": "CHF",
+  "mwst": "off",
+  "mwst_satz": 8.1,
+  "referenzart": "auto",
+  "betreff": "Dienstleistungen — Verrechnung der aufgewendeten Stunden",
+  "bemerkung": "Vielen Dank für die Zusammenarbeit.",
+  "absender": {
+    "name": "Nick Geiger",
+    "strasse": "Sulgenrain",
+    "nr": "28",
+    "plz": "3007",
+    "ort": "Bern",
+    "land": "CH",
+    "email": "nick.geiger@talentory.com",
+    "telefon": "+41762231107",
+    "iban": "CH67 8080 8002 3211 3702 1",
+    "bank": "Raiffeisen",
+    "mwst_nr": ""
+  },
+  "empfaenger": {
+    "name": "Talentory AG",
+    "zhd": "",
+    "strasse": "Hagenholzstrasse",
+    "nr": "81",
+    "plz": "8050",
+    "ort": "Zürich",
+    "land": "CH",
+    "email": "accounting@talentory.com"
+  },
+  "positionen": [
+    {
+      "eintrag": "2026-09-09-1647-a2f5",
+      "datum": "2026-09-09",
+      "text": "OneDrive Synchronisations Problem mit Oliver.",
+      "dauer_h": 0.5,
+      "satz_chf": 40,
+      "betrag": 20
+    },
+    {
+      "eintrag": "2026-09-10-1431-7658",
+      "datum": "2026-09-10",
+      "text": "Weiters Troubleshooting zum OneDrive Sync Problem.",
+      "dauer_h": 0.5,
+      "satz_chf": 40,
+      "betrag": 20
+    },
+    {
+      "eintrag": "2026-09-11-1159-20f1",
+      "datum": "2026-09-11",
+      "text": "Lösung des OneDrive Problems bei Oliver, Archivierung der bestehenden OneDrive Struktur. ForceKill der Dropbox Prozesse und anschliessendes Neu synchronisieren.",
+      "dauer_h": 1,
+      "satz_chf": 40,
+      "betrag": 40
+    },
+    {
+      "eintrag": "2026-09-17-1126-c4ae",
+      "datum": "2026-09-15",
+      "text": "Kommunikation mit Sue, Marc und vorbereitung der Checklisten für den neuen Mitarbeiter + Meeting + Digitec Recherche zur Empfehlung des Laptops.",
+      "dauer_h": 1,
+      "satz_chf": 40,
+      "betrag": 40
+    },
+    {
+      "eintrag": "2026-09-21-0001-99a6",
+      "datum": "2026-09-20",
+      "text": "DKIM Konfiguration auf Cloudflare und M365. Mail Security Verschärfung nach anfrage von Slava.",
+      "dauer_h": 1.5,
+      "satz_chf": 40,
+      "betrag": 60
+    },
+    {
+      "eintrag": "2026-09-21-0053-db27",
+      "datum": "2026-09-21",
+      "text": "DMARC Security Konfiguration. Access mgmt und Planung weiterer schritte.",
+      "dauer_h": 1.08,
+      "satz_chf": 40,
+      "betrag": 43.2
+    },
+    {
+      "eintrag": "2026-09-21-0001-64b6",
+      "datum": "2026-09-21",
+      "text": "Erklärung vom Claude Pricing und Modellen.",
+      "dauer_h": 0.5,
+      "satz_chf": 40,
+      "betrag": 20
+    },
+    {
+      "eintrag": "2026-09-22-1035-0f8c",
+      "datum": "2026-09-22",
+      "text": "Claude Account Empfehlung und Korrespondenz zu neuen Laptops.",
+      "dauer_h": 0.67,
+      "satz_chf": 40,
+      "betrag": 26.8
+    },
+    {
+      "eintrag": "2026-09-27-2256-3ec5",
+      "datum": "2026-09-27",
+      "text": "Steup vom Laptop von den 2 Neuen Mitarbeitern, M365 Account. Troubleshooting der bereits eingebundenen Account und diverse Konfigurationen der neuen Notebooks.",
+      "dauer_h": 3.5,
+      "satz_chf": 40,
+      "betrag": 140
+    },
+    {
+      "eintrag": "2026-09-27-2257-3e95",
+      "datum": "2026-09-27",
+      "text": "Steup vom Laptop von den 2 Neuen Mitarbeitern, M365 Account. Troubleshooting der bereits eingebundenen Account und diverse Konfigurationen der neuen Notebooks.",
+      "dauer_h": 1.17,
+      "satz_chf": 40,
+      "betrag": 46.8
+    },
+    {
+      "eintrag": "2026-09-29-0118-2b04",
+      "datum": "2026-09-29",
+      "text": "Fertigstellung des Setups vom Laptop für Saliou + Cleanup von PW, auth Apps usw. + Feedback an Marc.",
+      "dauer_h": 1.5,
+      "satz_chf": 40,
+      "betrag": 60
+    }
+  ],
+  "pdf": "e-20261001-0630-e27a.pdf",
+  "faellig": "2026-10-31",
+  "stunden_total": 12.92,
+  "netto": 516.8,
+  "mwst_betrag": 0,
+  "total": 516.8,
+  "pdfErzeugt": "2026-10-01T04:30:58.462Z",
+  "verworfen": "2026-10-01T14:20:40.539Z"
+}
